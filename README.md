@@ -1,2 +1,2 @@
-GitHub Page for Mark Viit // www.markviti.dev
+GitHub Page for Mark Viti // www.markviti.dev
 # varkmiti.github.io
